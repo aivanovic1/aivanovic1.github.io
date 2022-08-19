@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Andrei Ivanovic</title>
+    <link>https://example.com/publication-type/7/</link>
+      <atom:link href="https://example.com/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_huf34360f9ee788aa8f3530d0c3bdd32f8_486414_512x512_fill_lanczos_center_3.png</url>
+      <title>7</title>
+      <link>https://example.com/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Coordinated Multi-Agent Motion Planning via Imitation Learning</title>
+      <link>https://example.com/publication/ivanovic-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ivanovic-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
