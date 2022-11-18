@@ -12,6 +12,8 @@
   <url>
     <loc>https://example.com/home-unused/posts/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/home-unused/projects/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/home-unused/talks/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/home-unused/featured/</loc><changefreq>weekly</changefreq></url>
