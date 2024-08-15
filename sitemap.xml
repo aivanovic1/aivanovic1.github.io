@@ -28,21 +28,25 @@
   <url>
     <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/publication-type/1/</loc><lastmod>2022-08-19T03:13:01-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/ivanovic-itkina-et-al-2024/</loc><lastmod>2022-08-19T03:13:01-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2022-08-19T03:13:02-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/</loc><lastmod>2022-08-19T03:13:02-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication-type/7/</loc><lastmod>2022-08-19T03:13:02-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/ivanovic-2024/</loc><lastmod>2022-08-19T03:13:02-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/publication-type/0/</loc><lastmod>2022-08-19T03:13:02-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/ivanovic-1-aws-2022/</loc><lastmod>2022-08-19T03:13:02-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/ivanovic-2-aws-2022/</loc><lastmod>2022-08-19T03:13:02-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2022-08-19T03:13:02-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication/</loc><lastmod>2022-08-19T03:13:02-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2022-08-19T03:13:01-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/publication/ivanovic-mc-allister-et-al-2022/</loc><lastmod>2022-08-19T03:13:01-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication-type/7/</loc><lastmod>2022-08-19T03:13:02-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/ivanovic-2022/</loc><lastmod>2022-08-19T03:13:02-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
